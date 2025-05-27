@@ -35,7 +35,7 @@ fun LoginScreen(
                 .fillMaxWidth(0.7f)
                 .height(50.dp)
         ) {
-            Text("Login", color = Color.White, style = MaterialTheme.typography.bodyLarge)
+            Text("Login", color = Color.White, style = MaterialTheme.typography.bodyLarge )
         }
 
         Spacer(modifier = Modifier.height(16.dp))
