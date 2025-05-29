@@ -45,7 +45,7 @@ fun LoginScreen(
             Text(
                 text = "Vous n’avez pas de compte ?",
                 style = MaterialTheme.typography.bodySmall,
-                color = Color(0xFF8B5C5C)
+                color = Color(0xFF9C8A8A)
             )
             Text(
                 text = "créer un compte",
@@ -53,7 +53,7 @@ fun LoginScreen(
                     textDecoration = TextDecoration.Underline,
                     fontWeight = FontWeight.SemiBold
                 ),
-                color = Color(0xFF8B5C5C),
+                color = Color(0xFF9C8A8A),
                 modifier = Modifier.clickable { onCreateAccountClick() }
             )
         }

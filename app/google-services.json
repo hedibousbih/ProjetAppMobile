@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484203607421",
+    "project_id": "appmob-a4d16",
+    "storage_bucket": "appmob-a4d16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484203607421:android:0f179a839550e46e9f0814",
+        "android_client_info": {
+          "package_name": "com.example.deezerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6F3m4Nsa0whnfkZ1tOjIl9zyjJEmOGRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

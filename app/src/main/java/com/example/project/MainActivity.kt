@@ -15,13 +15,16 @@ import com.example.project.ui.theme.ProjectTheme
 
 import com.example.project.ui.screens.LoginScreen
 
+
+
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
             LoginScreen(
-                onLoginClick = { /* TODO */ },
-                onCreateAccountClick = { /* Navigation vers inscription */ }
+                onLoginClick = { },
+                onCreateAccountClick = {  }
             )
         }
     }
